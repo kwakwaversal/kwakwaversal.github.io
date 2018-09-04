@@ -1,1 +1,12 @@
+# This blog is written using Jekyll (https://jekyllrb.com/)
+#
+# Useful links:
+#   Directory structure - https://jekyllrb.com/docs/structure/
+#   Writing posts - https://jekyllrb.com/docs/posts/
+
+title: Programming and devops musings
+description: This description needs work
+
 theme: jekyll-theme-leap-day
+
+github: [metadata]
